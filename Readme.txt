@@ -1,5 +1,4 @@
 Ziyi Chen
-20517568
 
 Make version: GNU Make 3.81
 openjdk version "1.8.0_91"
@@ -16,15 +15,3 @@ Example Execution
 2. On the router3: java router 3 hostX 9999 9993
 2. On the router4: java router 4 hostX 9999 9994
 2. On the router5: java router 5 hostX 9999 9995
-
-Execution step:
-1. Run NSE (eg, ./nse-linux386 ubuntu1404-004.student.cs.uwaterloo.ca 5678 )
-2. Run router1-5 on different terminal (eg, 
-	java router 1 ubuntu1404-004.student.cs.uwaterloo.ca 5678 2355
-	java router 2 ubuntu1404-004.student.cs.uwaterloo.ca 5678 2356 etc..)
-
-
-
-
-test:
-1. Tested on ubuntu1404-004.student.cs.uwaterloo.ca
